@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "jade": "*",
+    "express": "*",
+    "mongoose": "*"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
